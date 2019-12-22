@@ -41,4 +41,3 @@ def correo(correo,tucorreo,contraseña,asunto,mensaje):
 
 
 
-alerta_correo('p.vlopez@udc.es','molamecosas8@gmail.com','asertivo007',3)
